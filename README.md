@@ -41,8 +41,8 @@ should look like the following.
  
 For “Word_Order_Frequency_Two_Books” function, the output should look like the
 following.
-| TOTAL     | BOOK 1    | BOOK 2    | WORD |
-| ORDER     | ORDER     | ORDER     | ORDER |
+| TOTAL     | BOOK 1    | BOOK 2    | WORD     |
+| ORDER     | ORDER     | ORDER     | ORDER    |
 | FREQUENCY | FREQUENCY | FREQUENCY | SEQUENCE |
 ------------------------------------------------
 <freq_total>|<freq_bk_1>|<freq_bk_2>|<word_list>
